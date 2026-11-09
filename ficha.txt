@@ -1,0 +1,48 @@
+FICHA DO SHORT
+Duração: 16 s · 720x1280 · 30 fps
+Muro 1 (madeira): <palavra>
+Muro 2 (tijolo): <palavra>
+Muro 3 (vidro): <palavra>
+Muro 4 (concreto): <palavra>
+Bandeira: <palavra>
+Legenda 1 (0 s até 7 s): <linha 1> / <linha 2>
+Legenda 2 (7,35 s até 10,1 s): <linha 1> / <linha 2>
+Legenda 3 (10,95 s até o fim): <linha 1> / <linha 2>
+Sons: <meu pacote em PASTA | criar por código>
+Cenas:
+0,0 s  correndo na noite, muro 1 já na tela
+0,5 s  pula e quebra o muro 1 com raio — madeira voa para frente
+2,5 s  quebra o muro 2 — tijolos explodem e caem
+4,5 s  quebra o muro 3 — vidro se estilhaça
+6,55 s muro 4 entra e para tudo; 6,6 s o martelo bate e só solta faíscas e rachaduras
+7,0 s  ele é jogado de costas no chão; fica parado
+7,9 s  senta, levanta, encosta o martelo na rachadura
+9,0 s  raio contínuo carrega o martelo; o céu clareia; as rachaduras crescem
+9,9 s  raio enorme — o muro vira cubos, segura, desmorona
+10,45 s volta a correr
+11,9 s a bandeira chega; 12,6 s amanhecer, sol nasce, brilho verde
+13,9 s e 15,0 s raios pequenos no martelo erguido até o fim
+FICHA DO SHORT
+Duração: 16 s · 720x1280 · 30 fps
+Muro 1 (madeira): REJEIÇÃO
+Muro 2 (tijolo): FRACASSO
+Muro 3 (vidro): CORAÇÃO PARTIDO
+Muro 4 (concreto): AUTOSSABOTAGEM
+Bandeira: SUCESSO
+Legenda 1 (0 s até 7 s): A vida vai colocar / muros no seu caminho.
+Legenda 2 (7,35 s até 10,1 s): Alguns vão / te derrubar.
+Legenda 3 (10,95 s até o fim): Levanta. Bate mais forte. / Atravessa.
+Sons: criar por código
+Cenas:
+0,0 s  correndo na noite, muro 1 já na tela
+0,5 s  pula e quebra o muro 1 com raio — madeira voa para frente
+2,5 s  quebra o muro 2 — tijolos explodem e caem
+4,5 s  quebra o muro 3 — vidro se estilhaça
+6,55 s muro 4 entra e para tudo; 6,6 s o martelo bate e só solta faíscas e rachaduras
+7,0 s  ele é jogado de costas no chão; fica parado
+7,9 s  senta, levanta, encosta o martelo na rachadura
+9,0 s  raio contínuo carrega o martelo; o céu clareia; as rachaduras crescem
+9,9 s  raio enorme — o muro vira cubos, segura, desmorona
+10,45 s volta a correr
+11,9 s a bandeira chega; 12,6 s amanhecer, sol nasce, brilho verde
+13,9 s e 15,0 s raios pequenos no martelo erguido até o fim
